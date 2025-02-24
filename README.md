@@ -20,6 +20,11 @@
 [SciPy User Guide - SciPy v1.15.2 Manual](https://docs.scipy.org/doc/scipy/tutorial/index.html)
 
 [Tutorials - Matplotlib 3.10.0 documentation](https://matplotlib.org/stable/tutorials/index.html)
+
+[User Guide - scikit-learn](https://scikit-learn.org/stable/user_guide.html#)
+
+[PyTorch documentation - PyTorch 2.6 documentation](https://pytorch.org/docs/stable/index.html)
+
 ## 3. Books
 [Think Python How to Think Like a Computer 3rd Edition](https://allendowney.github.io/ThinkPython/index.html)
 
