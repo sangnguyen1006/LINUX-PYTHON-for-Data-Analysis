@@ -22,3 +22,5 @@
 [Think Python How to Think Like a Computer 3rd Edition](https://allendowney.github.io/ThinkPython/index.html)
 
 [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+
+[Machine Learning with Pytorch and Scikit-learn](https://github.com/avr2002/Machine-Learning-with-Pytorch-Scikit-Learn)
