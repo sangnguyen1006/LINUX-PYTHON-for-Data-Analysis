@@ -19,4 +19,5 @@
 
 [Tutorials - Matplotlib 3.10.0 documentation](https://matplotlib.org/stable/tutorials/index.html)
 ## 3. Books
+[Think Python How to Think Like a Computer 3rd Edition](https://allendowney.github.io/ThinkPython/index.html)
 [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
