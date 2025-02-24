@@ -4,9 +4,11 @@
 ## 2. Remote SSH - Connection
 [Remote Development using SSH](https://code.visualstudio.com/docs/remote/ssh)
 # LINUX
-## 1. Command Lines
+## 1. Linux - Forum
+[linux-tutorials](https://www.linux.org/forums/#linux-tutorials.122)
+## 2. Command Lines
 [UNIX/LINUX Tutorial for Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/index.html)
-## 2. VIM editor
+## 3. VIM editor
 [![Xem video](https://img.youtube.com/vi/Yprtdc-Gogs/0.jpg)](https://www.youtube.com/watch?v=Yprtdc-Gogs)
 # Miniconda3
 [User guide - conda 25.1.1 documentation](https://docs.conda.io/projects/conda/en/stable/user-guide/index.html#)
