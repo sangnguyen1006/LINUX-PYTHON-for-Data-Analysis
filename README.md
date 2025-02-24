@@ -15,3 +15,5 @@
 [User Guide - pandas 2.2.3 documentation](https://pandas.pydata.org/docs/user_guide/index.html)
 
 [Tutorials - Matplotlib 3.10.0 documentation](https://matplotlib.org/stable/tutorials/index.html)
+## 3. Books
+[Python for Data Analysis, 3E](https://wesmckinney.com/book/)
