@@ -1,4 +1,7 @@
 # Installation and Setup
+## Visual
+[![Getting Started with Python in VS Code (Official Video)](https://img.youtube.com/vi/D2cwvpJSBX4/0.jpg)](https://www.youtube.com/watch?v=D2cwvpJSBX4)
+## Remote SSH - Connection
 [Remote Development using SSH](https://code.visualstudio.com/docs/remote/ssh)
 # LINUX
 ## 1. Command Lines
