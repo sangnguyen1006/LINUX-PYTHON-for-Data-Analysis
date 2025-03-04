@@ -38,3 +38,5 @@
 [Basic Machine Learning](book_ML_color.pdf)
 
 [Machine Learning with Pytorch and Scikit-learn](https://github.com/avr2002/Machine-Learning-with-Pytorch-Scikit-Learn)
+
+[Linear Algebra Review and Reference](linalg_notes.pdf)
