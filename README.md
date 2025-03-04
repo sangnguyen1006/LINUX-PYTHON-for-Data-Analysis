@@ -35,4 +35,6 @@
 
 [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
+[Basic Machine Learning](book_ML_color.pdf)
+
 [Machine Learning with Pytorch and Scikit-learn](https://github.com/avr2002/Machine-Learning-with-Pytorch-Scikit-Learn)
