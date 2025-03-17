@@ -37,7 +37,7 @@
 
 [Basic Machine Learning](book_ML_color.pdf)
 
-[Basic Deeplearning](https://nttuan8.com/sach-deep-learning-co-ban/)
+[Basic Deep Learning](https://nttuan8.com/sach-deep-learning-co-ban/)
 
 [Machine Learning with Pytorch and Scikit-learn](https://github.com/avr2002/Machine-Learning-with-Pytorch-Scikit-Learn)
 
