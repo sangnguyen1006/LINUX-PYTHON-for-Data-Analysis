@@ -39,6 +39,6 @@
 
 [Basic Deep Learning](https://nttuan8.com/sach-deep-learning-co-ban/)
 
-[Machine Learning with Pytorch and Scikit-learn](https://github.com/avr2002/Machine-Learning-with-Pytorch-Scikit-Learn)
+[Machine Learning with Pytorch and Scikit-learn](https://github.com/rasbt/machine-learning-book/tree/main)
 
 [Linear Algebra Review and Reference](linalg_notes.pdf)
