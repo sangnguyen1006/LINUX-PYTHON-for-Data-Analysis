@@ -42,3 +42,7 @@
 [Machine Learning with Pytorch and Scikit-learn](https://github.com/rasbt/machine-learning-book/tree/main)
 
 [Linear Algebra Review and Reference](linalg_notes.pdf)
+
+# R for Data Analysis
+## 1. Essential R Libraties
+[The R Graph Gallery](https://r-graph-gallery.com/)
